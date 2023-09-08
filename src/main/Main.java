@@ -25,6 +25,8 @@ public class Main {
 		GamePanel gamePanel = new GamePanel();
 		windowFrame.add(gamePanel);
 		
+		// probando git
+		
 		// Luego la tenemos que packear para ver
 		windowFrame.pack();
 
